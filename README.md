@@ -8,5 +8,5 @@ Lua for A
 别碰mate，共斗，ex，演习！！！
 
 ## 收益
-* [小开收益](./Doc/SmallkaiIncome.md)
-* [倍速收益](./Doc/SpeedupIncome.md)
+* [收益](./Doc/SmallkaiIncome.md)
+* [收益](./Doc/SpeedupIncome.md)
