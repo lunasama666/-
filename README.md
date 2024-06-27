@@ -1,5 +1,5 @@
 # SmallKai
-Lua for AzurLane
+Lua for A
 
 ## 原则
 开别怂，怂别开，封别叫！（小开不算开，开了就是开了？）
